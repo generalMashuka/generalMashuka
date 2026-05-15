@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Masha Jurgenson</h1>
 <h3 align="center">from Saint Petersburg, Russia.</h3>
 
-- 🔭 I’m currently contributing to [TRAVELUP APP]
+- 🔭 I’m currently contributing to TRAVELUP APP
   (https://travelupapp.com/)
 
 - 🌱 I’m currently learning **React Native**
