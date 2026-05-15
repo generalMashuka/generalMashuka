@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Masha Jurgenson</h1>
-<h3 align="center">A huge coding enthusiast from Saint Petersburg, Russia.</h3>
+<h3 align="center">from Saint Petersburg, Russia.</h3>
 
-- 🔭 I’m currently working on [WE ARE JURGENSONS](https://wearejurgensons.onrender.com/)
+- 🔭 I’m currently contributing to [TRAVELUP APP]
+  (https://travelupapp.com/)
 
-- 🌱 I’m currently learning **React Native, Native Wind**
+- 🌱 I’m currently learning **React Native**
 
 - 💬 Ask me about **react, js, node, css**
 
